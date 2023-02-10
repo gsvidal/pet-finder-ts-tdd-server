@@ -1,4 +1,4 @@
-# Pet Adoption Center (backend)
+# Pet Adoption Center App (backend)
 
 ### In case you want to [checkout the Pet Adoption Center (frontend)](https://github.com/gsvidal/pet-finder-ts-tdd-client)
 <br />
