@@ -1,6 +1,6 @@
 # Pet Adoption Center (backend)
 
-### Just in case you want to [checkout the Pet Adoption Center (frontend)](https://github.com/gsvidal/pet-finder-ts-tdd-client)
+### In case you want to [checkout the Pet Adoption Center (frontend)](https://github.com/gsvidal/pet-finder-ts-tdd-client)
 <br />
 
 ## Main features:
