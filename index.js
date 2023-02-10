@@ -1,6 +1,8 @@
 const express = require('express');
 const { pets } = require('./data');
 const cors = require('cors');
+require('dotenv').config();
+const port = process.env.PORT || 4000;
 
 const app = express();
 
@@ -10,6 +12,6 @@ app.get('/pets', async (req, res) => {
   return res.json(pets);
 });
 
-app.listen(4000, () => {
-  console.log('listening');
+app.listen(port, () => {
+  console.log(`server running at port http://localhost:${port}`);
 });
